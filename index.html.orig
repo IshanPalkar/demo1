@@ -11,6 +11,11 @@
         <div class="cloud-image">
             <img src="img/successCloudNew.svg" />
         </div>
+<<<<<<< HEAD
+        // xD
+=======
+        //xD
+>>>>>>> feature2
         <div class="content">
             <div class="tweet-container">
                 <a
